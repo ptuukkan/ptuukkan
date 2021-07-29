@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a System & Network admin with 7 years of experience currently studying programming at Hive Helsinki.
+I am a System & Network admin with 7 years of experience and now studying programming at Hive Helsinki.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pekka-tuukkanen/)
 
