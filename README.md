@@ -18,7 +18,7 @@ I am a System & Network admin with 7 years of experience and now studying progra
 ![](https://img.shields.io/badge/ArangoDB-568203?style=for-the-badge&logo=arangodb&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukezor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptuukkan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tukezor/tukezor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
