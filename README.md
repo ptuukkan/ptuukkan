@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a System & Network admin with 7 years of experience and now studying programming at Hive Helsinki. I like food, strongly typed languages, clean code, and dogs.
+I am a Hive Helsinki alumni with System & Network admin background, now working as a full stack developer. I like food, strongly typed languages, clean code, and dogs.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pekka-tuukkanen/)
 
